@@ -11,7 +11,7 @@ html{
 }
 
 .logo{
-	max-width: 160px;
+	max-width: 100px;
 }
 
 .cabecalho{
@@ -25,6 +25,7 @@ html{
 	display: flex;
 	flex-direction: row;
 	padding: 0px 0px 0px 40px;
+	margin-bottom: 0px;
 	justify-content: space-around;
 }
 .menu ul{
@@ -128,6 +129,7 @@ html{
 .conteudo1{
 	width: 100%;
 	max-width: 1200px;
+	/* margin-top: 1px; */
 	margin: 0 auto;
 }
 
